@@ -1,0 +1,24 @@
+html,
+body {
+    height: 100%;
+    width: 100%
+}
+
+table {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+
+}
+
+.blue {
+    margin: 1px;
+    width: 60px;
+    background-color: rgb(121, 151, 234)
+}
+
+.yellow {
+    margin: 1px;
+    width: 60px;
+    background-color: rgb(243, 217, 86)
+}
